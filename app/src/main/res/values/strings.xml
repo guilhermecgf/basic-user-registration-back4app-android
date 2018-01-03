@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Basic User Registration | Back4App</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">uBZDyPpgjYxB6rz5B2f21fpbp92jmmBCBqR3oUtJ</string>
+    <string name="back4app_client_key">8A0QEvVgeTlb6kfP7WmbP87p7byPtLR2UDM8AgtP</string>
+
+    <!-- <string name="back4app_app_id">MP6H592QYgcXg3SwdqFO1BAUtQz1ukNFSAuKDR2n</string>
+    <string name="back4app_client_key">iL0IbxexpJFKh4Kx3aym8o6fbHrOWxeLGy1vmT7L</string> -->
+
+</resources>
